@@ -273,6 +273,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
@@ -311,6 +316,11 @@
     (pad "2" smd roundrect locked (at 0.775 0 90) (size 0.9 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 1 "GND") (pintype "passive") (tstamp 02f8904b-a7b2-49dd-b392-764e7e29fb51))
     (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -357,6 +367,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
@@ -395,6 +410,11 @@
     (pad "2" smd roundrect locked (at 0.775 0 90) (size 0.9 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 1 "GND") (pintype "passive") (tstamp 20901d7e-a300-4069-8967-a6a7e97a68bc))
     (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -441,6 +461,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
@@ -479,6 +504,11 @@
     (pad "2" smd roundrect locked (at 0.775 0 90) (size 0.9 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 1 "GND") (pintype "passive") (tstamp 3249bd81-9fd4-4194-9b4f-2e333b2195b8))
     (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -524,6 +554,11 @@
     (pad "2" smd rect locked (at 1.05 0 180) (size 0.6 0.45) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "A2") (pintype "passive") (tstamp be41ac9e-b8ba-4089-983b-b84269707f1c))
     (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-323.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -574,6 +609,11 @@
     (pad "2" smd rect locked (at 2.2 0 90) (size 1.4 2.1) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "A") (pintype "passive") (tstamp a25b7e01-1754-4cc9-8a14-3d9c461e5af5))
     (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-128.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1495,6 +1535,11 @@
       (net 68 "unconnected-(U1-Pad7)") (pinfunction "SS") (pintype "input+no_connect") (tstamp 1fcf60a1-c479-4ef4-874f-68b80d55c2ab))
     (pad "8" smd rect locked (at 0 -0.1524) (size 10.414 10.414) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "DAP") (pintype "power_in") (tstamp f6cf46c0-d85b-4bcd-990c-cc3af401e6b2))
+    (model "${KICAD6_3RD_PARTY}/3d/LM22679TJE-5.0_NOPB.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 -90))
+    )
   )
 
   (footprint "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad" (layer "F.Cu")
@@ -1748,21 +1793,16 @@
       (net 25 "/płytka pionowa/CAN+") (pinfunction "Pin_54") (pintype "passive") (tstamp 34a74736-156e-4bf3-9200-cd137cfa59da))
     (pad "55" thru_hole circle (at 7.9248 2.3876 225) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask)
       (net 18 "/płytka pionowa/Z13") (pinfunction "Pin_55") (pintype "passive") (tstamp d0d2eee9-31f6-44fa-8149-ebb4dc2dc0dc))
-    (model "C:/Users/przemson/Desktop/AS216-35PN.STEP" hide
-      (opacity 0.3000)      (offset (xyz 0.3302 1.1684 -18.0086))
+    (model "C:/Users/wasyl/Desktop/PUT Motorsport/Przedni box 05.01.20220/Box przedni/model 3d gniazda autosport 55 PIN.STEP"
+      (offset (xyz 0 0 -1))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 180))
-    )
-    (model "C:/Users/wasyl/Desktop/Przedni box 05.01.2022/Box przedni/model 3d gniazda autosport 55 PIN.STEP"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 90 0))
+      (rotate (xyz 180 90 180))
     )
   )
 
   (footprint "User_footprints:PUTM_LOGO_35mm" (layer "B.Cu")
     (tedit 609003CF) (tstamp 7608203e-ae4f-4d1f-a9d3-0aeb24dce8e4)
-    (at 161 94.25 90)
+    (at 161.630872 83.918254 90)
     (attr through_hole)
     (fp_text reference "G***" (at 0 0 90) (layer "B.SilkS") hide
       (effects (font (size 1.524 1.524) (thickness 0.3)) (justify mirror))
@@ -7458,7 +7498,7 @@
     (connect_pads yes (clearance 0))
     (min_thickness 0.254)
     (keepout (tracks not_allowed) (vias not_allowed) (pads not_allowed ) (copperpour not_allowed) (footprints allowed))
-    (fill (thermal_gap 0.508) (thermal_bridge_width 0.508) (smoothing chamfer) (radius 10))
+    (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
         (xy 160.8 85.1)
