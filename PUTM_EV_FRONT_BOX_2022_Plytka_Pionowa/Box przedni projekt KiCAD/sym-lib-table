@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "Regulator_Switching1")(type "Legacy")(uri "${KIPRJMOD}/Regulator_Switching1.lib")(options "")(descr ""))
-)

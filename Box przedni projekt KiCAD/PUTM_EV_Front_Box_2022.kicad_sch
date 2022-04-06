@@ -4757,34 +4757,34 @@
     (path "/00000000-0000-0000-0000-000061ac4c73"
       (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006197a389/00000000-0000-0000-0000-000061991da9"
+    (path "/00000000-0000-0000-0000-00006197a389/b93d027f-21f6-4fc9-ad3f-317eded6973b"
       (reference "#PWR0111") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006197a389/00000000-0000-0000-0000-000061991db9"
-      (reference "#PWR0112") (unit 1) (value "+5V") (footprint "")
+    (path "/00000000-0000-0000-0000-00006197a389/111be01c-3f3d-4a63-a730-20593490b837"
+      (reference "#PWR0112") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006197a389/00000000-0000-0000-0000-000061996db9"
-      (reference "#PWR0113") (unit 1) (value "GND") (footprint "")
+    (path "/00000000-0000-0000-0000-00006197a389/1a585210-4cd2-4cf8-9787-2016b6bc4329"
+      (reference "#PWR0113") (unit 1) (value "+5V") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006197a389/00000000-0000-0000-0000-000061996dc1"
-      (reference "#PWR0114") (unit 1) (value "+5V") (footprint "")
+    (path "/00000000-0000-0000-0000-00006197a389/07c4c238-6403-4327-b6d6-e3cef522d132"
+      (reference "#PWR0114") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006197a389/00000000-0000-0000-0000-000061998335"
+    (path "/00000000-0000-0000-0000-00006197a389/750cb84e-d795-4364-9358-ec0975478b7f"
       (reference "#PWR0115") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006197a389/00000000-0000-0000-0000-00006199833d"
+    (path "/00000000-0000-0000-0000-00006197a389/5aee846a-8592-4b29-bd9b-9c316ee83d69"
       (reference "#PWR0116") (unit 1) (value "+5V") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006197a389/00000000-0000-0000-0000-00006199b622"
-      (reference "#PWR0117") (unit 1) (value "GND") (footprint "")
+    (path "/00000000-0000-0000-0000-00006197a389/b06ad5b8-3b55-4295-ac00-2db4462d06a0"
+      (reference "#PWR0117") (unit 1) (value "+5V") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006197a389/00000000-0000-0000-0000-00006199b62a"
+    (path "/00000000-0000-0000-0000-00006197a389/d62c7b9b-2733-4c7c-acaf-935bbb5b42fb"
       (reference "#PWR0118") (unit 1) (value "+5V") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006197a389/00000000-0000-0000-0000-00006199d545"
+    (path "/00000000-0000-0000-0000-00006197a389/0e4fe764-47ff-46fb-a357-7161a110fc25"
       (reference "#PWR0119") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006197a389/00000000-0000-0000-0000-00006199d54d"
+    (path "/00000000-0000-0000-0000-00006197a389/f243ec58-1f6e-418e-a663-db153af2a742"
       (reference "#PWR0120") (unit 1) (value "+5V") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006197a389/00000000-0000-0000-0000-0000619a416a"
@@ -4985,6 +4985,9 @@
     (path "/07bc69dc-4149-415f-94bf-24ec4f65b351"
       (reference "H8") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad")
     )
+    (path "/00000000-0000-0000-0000-00006197a389/d375f196-6f2b-4a02-b59f-0abcafe1e5a7"
+      (reference "J1") (unit 1) (value "APPS") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
+    )
     (path "/00000000-0000-0000-0000-000061dda3cd/00000000-0000-0000-0000-000061c5b7e8"
       (reference "J2") (unit 1) (value "piny kątowe") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x17_P2.54mm_Horizontal")
     )
@@ -5003,23 +5006,20 @@
     (path "/00000000-0000-0000-0000-00006197a389/00000000-0000-0000-0000-0000619a4164"
       (reference "J7") (unit 1) (value "hdmi wurth") (footprint "User_footprints:685119134923")
     )
-    (path "/00000000-0000-0000-0000-00006197a389/00000000-0000-0000-0000-000061991dc0"
-      (reference "J8") (unit 1) (value "Conn_ST_STDC14") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical")
+    (path "/00000000-0000-0000-0000-00006197a389/63c4f6ba-7934-4f34-b900-9d85f4b16ec3"
+      (reference "J8") (unit 1) (value "EBS") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
-    (path "/00000000-0000-0000-0000-00006197a389/00000000-0000-0000-0000-000061991db1"
-      (reference "J9") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+    (path "/00000000-0000-0000-0000-00006197a389/a9ca37b3-d0be-4022-acd0-baf378937a34"
+      (reference "J9") (unit 1) (value "Karta ") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
-    (path "/00000000-0000-0000-0000-00006197a389/00000000-0000-0000-0000-000061996dc8"
-      (reference "J10") (unit 1) (value "Conn_ST_STDC14") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical")
+    (path "/00000000-0000-0000-0000-00006197a389/9d89eb5e-6285-4416-b4d6-f808b388a814"
+      (reference "J10") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
-    (path "/00000000-0000-0000-0000-00006197a389/00000000-0000-0000-0000-00006199b631"
-      (reference "J11") (unit 1) (value "Conn_ST_STDC14") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical")
+    (path "/00000000-0000-0000-0000-00006197a389/28200062-4f55-4fa7-a570-28e2ab274545"
+      (reference "J11") (unit 1) (value "Wolne") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
-    (path "/00000000-0000-0000-0000-00006197a389/00000000-0000-0000-0000-00006199d554"
-      (reference "J12") (unit 1) (value "Conn_ST_STDC14") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical")
-    )
-    (path "/00000000-0000-0000-0000-00006197a389/00000000-0000-0000-0000-000061998344"
-      (reference "J13") (unit 1) (value "Conn_ST_STDC14") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical")
+    (path "/00000000-0000-0000-0000-00006197a389/e4a73b93-c925-4263-a4d5-8e9e5fe2b9aa"
+      (reference "J12") (unit 1) (value "Telemetria") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-000061b33f36"
       (reference "J14") (unit 1) (value "Diagnostyka") (footprint "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical")
