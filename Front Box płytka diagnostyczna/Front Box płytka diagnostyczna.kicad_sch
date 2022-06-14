@@ -841,8 +841,8 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0df798c0-963e-4340-a737-18e50763521e)
     (property "Reference" "J5" (id 0) (at 184.785 100.33 0))
-    (property "Value" "" (id 1) (at 184.785 102.87 0))
-    (property "Footprint" "" (id 2) (at 184.15 110.49 0)
+    (property "Value" "Wolne" (id 1) (at 184.785 102.87 0))
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" (id 2) (at 184.15 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 184.15 110.49 0)
@@ -859,8 +859,8 @@
     (in_bom yes) (on_board yes)
     (uuid 1020b588-7eb0-4b70-bbff-c77a867c3142)
     (property "Reference" "J4" (id 0) (at 137.16 100.33 0))
-    (property "Value" "" (id 1) (at 137.795 102.87 0))
-    (property "Footprint" "" (id 2) (at 137.16 110.49 0)
+    (property "Value" "EBS" (id 1) (at 137.795 102.87 0))
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" (id 2) (at 137.16 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 137.16 110.49 0)
@@ -879,7 +879,7 @@
     (property "Reference" "CAN1" (id 0) (at 174.752 134.8232 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "" (id 1) (at 174.752 137.1346 0)
+    (property "Value" "Male header 2.54mm" (id 1) (at 174.752 137.1346 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (id 2) (at 172.72 134.62 0)
@@ -896,8 +896,8 @@
     (in_bom yes) (on_board yes)
     (uuid 3d2a15cb-c492-4d9a-b1dd-7d5f099d2d31)
     (property "Reference" "J2" (id 0) (at 162.56 64.77 0))
-    (property "Value" "" (id 1) (at 163.83 67.31 0))
-    (property "Footprint" "" (id 2) (at 161.29 74.93 0)
+    (property "Value" "Karta" (id 1) (at 163.83 67.31 0))
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" (id 2) (at 161.29 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 161.29 74.93 0)
@@ -914,8 +914,8 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 41ab46ed-40f5-461d-81aa-1f02dc069a49)
     (property "Reference" "J3" (id 0) (at 192.405 64.77 0))
-    (property "Value" "" (id 1) (at 192.405 67.31 0))
-    (property "Footprint" "" (id 2) (at 191.77 74.93 0)
+    (property "Value" "Telemetria" (id 1) (at 192.405 67.31 0))
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" (id 2) (at 191.77 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 191.77 74.93 0)
@@ -1076,8 +1076,8 @@
     (in_bom yes) (on_board yes)
     (uuid e8e598ff-c991-433d-8dd6-c9fce2fe1eaa)
     (property "Reference" "J1" (id 0) (at 137.795 64.77 0))
-    (property "Value" "" (id 1) (at 138.43 67.31 0))
-    (property "Footprint" "" (id 2) (at 137.16 74.93 0)
+    (property "Value" "APPS" (id 1) (at 138.43 67.31 0))
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" (id 2) (at 137.16 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 137.16 74.93 0)
@@ -1138,8 +1138,21 @@
     (pin "1" (uuid 905b154b-e92b-469d-b2e2-340d67daddb7))
   )
 
+  (sheet (at 134.62 39.37) (size 17.78 5.08) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3742a313-c63e-4807-a7bf-be5a0ae2c781)
+    (property "Sheet name" "Untitled Sheet" (id 0) (at 134.62 38.6584 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "untitled.kicad_sch" (id 1) (at 134.62 45.0346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
+    (path "/3742a313-c63e-4807-a7bf-be5a0ae2c781" (page "2"))
   )
 
   (symbol_instances
@@ -1179,8 +1192,14 @@
     (path "/b5de2bf0-583c-45d9-bc5e-15007fe3ede8"
       (reference "#PWR0112") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/3742a313-c63e-4807-a7bf-be5a0ae2c781/4fe6981b-b29c-4bff-8414-9cf327d56d31"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/356199c8-c0f7-4995-bef0-53ad752a30c5"
       (reference "CAN1") (unit 1) (value "Male header 2.54mm") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
+    )
+    (path "/3742a313-c63e-4807-a7bf-be5a0ae2c781/79fa2112-ba21-4d8b-a179-bbafcafc0b2a"
+      (reference "D?") (unit 1) (value "LED") (footprint "")
     )
     (path "/08ac4c42-16f0-4513-b91e-bf0b3a111257"
       (reference "HDMI1") (unit 1) (value "hdmi wurth") (footprint "footprints:685119134923")
@@ -1199,6 +1218,12 @@
     )
     (path "/0df798c0-963e-4340-a737-18e50763521e"
       (reference "J5") (unit 1) (value "Wolne") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical")
+    )
+    (path "/3742a313-c63e-4807-a7bf-be5a0ae2c781/0ee4f337-95e5-4a44-a816-f788821cba4a"
+      (reference "R?") (unit 1) (value "R") (footprint "")
+    )
+    (path "/3742a313-c63e-4807-a7bf-be5a0ae2c781/2361ed9d-44ac-40c1-ab71-db1419d4ef87"
+      (reference "U?") (unit 1) (value "MCP2562-E-SN") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
   )
 )
